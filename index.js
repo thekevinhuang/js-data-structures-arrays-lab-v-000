@@ -22,7 +22,7 @@ function appendDriver() {
 }
 
 function prependDriver() {
-  return []
+  return ["Arnold", ...drivers]
 }
 
 function removeLastDriver() {
