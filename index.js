@@ -22,13 +22,13 @@ function appendDriver() {
 }
 
 function prependDriver() {
-
+  return []
 }
 
 function removeLastDriver() {
-
+  return []
 }
 
 function removeFirstDriver() {
-
+  return []
 }
