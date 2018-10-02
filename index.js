@@ -24,3 +24,11 @@ function appendDriver() {
 function prependDriver() {
   
 }
+
+function removeLastDriver() {
+  
+}
+
+function removeFirstDriver() {
+  
+}
